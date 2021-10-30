@@ -2,3 +2,5 @@
 sign: true
 # UID of the GPG key to use
 key: BED079E67FD431E45301B1C9949E671B46AC8A34
+
+keyring: /home/runner/.gnupg/secring.gpg
