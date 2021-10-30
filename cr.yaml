@@ -2,4 +2,3 @@
 sign: true
 # UID of the GPG key to use
 key: Anton Whalley
-release-name-template: {{ .Version }}
