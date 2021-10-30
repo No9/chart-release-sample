@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  chart-release-sample:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-30T11:58:04.160591812Z"
+    description: A Helm chart for Kubernetes
+    digest: 517a1a360cb3eb438965827e49fb2d92b4a36435bef6633cf74c1e5e80e7ded2
+    name: chart-release-sample
+    type: application
+    urls:
+    - https://github.com/No9/chart-release-sample/releases/download/chart-release-sample-2.1.5/chart-release-sample-2.1.5.tgz
+    version: 2.1.5
+generated: "2021-10-30T11:58:04.160597712Z"
