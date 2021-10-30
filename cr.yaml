@@ -1,4 +1,4 @@
-# Set to true for GPG signing
+owner: generaltosh
 sign: true
 # UID of the GPG key to use
 key: Anton Whalley
